@@ -1,0 +1,16 @@
+# Entornos y Secretos
+.env
+
+# Directorios de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.log
+
+# Windows
+Thumbs.db
+
+# Datos y Vectores que pueden ser pesados (opcional, pero buena práctica)
+faiss_index*/
